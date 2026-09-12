@@ -1,0 +1,5 @@
+# ocean-data — local NetCDF working area (NOT pushed)
+# Rebuild via copernicusmarine subset; see ocean-docs/docs/data/glorys12.md
+*.nc
+*.nc.*
+.zarr/
